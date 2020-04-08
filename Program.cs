@@ -8,7 +8,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.ReadLine();
-            // This is a Sample project 
+            // This is a Sample project is Git Hub version
         }
     }
 }
